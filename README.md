@@ -14,4 +14,4 @@ Open `http://127.0.0.1:8000/web/index.html`. A local HTTP server is required bec
 
 Source records have citations and review dates, but their inclusion does not independently verify clinical efficacy. **No personalized medical advice, supplement dosing, safety guarantee, or substitute for professional care** is provided.
 
-**Use and rights:** The original [LICENSE](LICENSE) reserves reuse rights; publication does not make the source open-source. [MANIFEST.sha256](MANIFEST.sha256) records the released files.
+**Use and rights:** The [LICENSE](LICENSE) reserves reuse rights; publication does not make the source open-source. [MANIFEST.sha256](MANIFEST.sha256) records the released files.
